@@ -9,13 +9,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
     <title>Clientes</title>
 
-    <script type="text-javascript">
-        function teste_click()
-        {
-           alert('teste');
-        }
-    </script>
-
 </head>
 <body style="background-color: #F2E3D5;">
     <form id="frmCadastroCliente" runat="server">
